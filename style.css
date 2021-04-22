@@ -1,0 +1,217 @@
+#header{
+    height: 120px;
+    width: 100%;
+    display: block;
+    background-color:white;
+    border-bottom: 5px;
+    border-bottom:  #ccc;
+}
+#grayborder{
+    width:100%;
+    height: 20px;
+}
+
+#logodiv{
+    float: left;
+    width: 25%;
+    margin-top: 30px;
+}
+#logo{
+    float: left;
+    margin-top: -6px;  
+}
+
+#title{
+    margin-left: 55px;
+    height: 20px;
+    margin-top: -40px;
+}
+
+#list{
+    background-image: url("./images/list-bg.png");
+    height:100px;
+    margin-bottom: 40px;
+}
+#row1{
+  margin-right:100px;  
+  margin-left: 10px;
+}
+
+#row2{
+    margin-right:99px;  
+    margin-left:10px;
+}
+
+#row3{
+    margin-right:68px;  
+    margin-left:10px ;
+}
+
+
+#row4{
+    margin-right:48px;  
+    margin-left: 10px;
+}
+
+#row5{
+    margin-right:133px;  
+    margin-left:10px ;
+}
+#row6{
+    margin-right:120px;  
+    margin-left:10px ;
+}
+
+
+
+
+#iconsdiv{
+float: right;
+margin-top:30px ;
+
+
+}
+
+
+
+
+#h1{
+    font-family: cursive;
+    font-size: 35px;
+    margin-bottom: -10px;
+}
+
+#h2{
+    font-style: initial;
+    color: gray;
+    width: 300px;
+    font-size: 11px;
+}
+
+
+
+#maintitle{
+  font-size:40px ;  
+  font-family:fantasy;
+  font-weight:lighter;
+
+}
+
+#mainimg{
+    width: 100%;
+
+}
+
+
+#mainparagraph{
+font-size: 20px;
+font-family:cursive;
+color: rgb(1, 7, 1);
+line-height: 20px;
+}
+
+#secondparagraph{
+
+    font-size: 20px;
+    font-family:cursive;
+    color:rgb(14, 9, 1);
+    line-height: 20px;
+}
+
+#thirdparagraph{
+    font-size: 20px;
+    font-family:cursive;
+    color:rgb(2, 0, 0);
+    line-height: 20px;
+}
+
+
+
+
+
+#list{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+
+
+
+#vanimg{
+    float:left;
+    margin-right: 15px;
+    margin-top: 15px;
+
+}
+
+
+
+#vanParagraph{
+    float: left;
+    width: 50%;
+    font-size: 15px;
+    font-family: cursive;
+    margin-bottom: 20px;
+
+}
+
+
+
+#footerimg{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+footer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    font-family: fantasy;
+    font-size: 9px;
+    width: 50%;
+}
+
+
+
+#copyright{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+}
+
+
+#sharerecipe{
+    float: right;
+    background-color:brown ;
+    height:35px ;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    margin-top:-10px ;
+
+}
+
+#h3{
+    margin-bottom: -10px;
+    font-family: cursive;
+    font-size: 30px;
+    color: firebrick;
+    margin-top: -2px;
+}
+
+body{
+    width:700px;
+    margin: auto;
+}
+
+#footerimg{
+display:block ;
+margin-right: auto;
+margin-left: auto;
+}
